@@ -1,0 +1,22 @@
+h1 {
+    color:darkorchid;
+    font-size: 40px;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color:chartreuse;
+    font-size: 20px;
+
+}
+body {
+    background-color: black;
+}
+span{
+    color: honeydew;
+
+}
+input{
+    background-color:lightseagreen;
+}
